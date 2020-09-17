@@ -5,6 +5,9 @@
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
+  "repository": {
+    "url": "https://github.com/R0DR160HM/lazy-load"
+  },
   "main": "bundles/lazy-load.umd.js",
   "module": "fesm5/lazy-load.js",
   "es2015": "fesm2015/lazy-load.js",
